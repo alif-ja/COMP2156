@@ -1,5 +1,4 @@
 name: DevOps Lab Execrise
-run-name :${{git hub.actor}} is testing out github actions
 #Controls when the workflow will run
 on:
   push : 
